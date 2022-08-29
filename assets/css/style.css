@@ -6,10 +6,10 @@
 :root {
     --color-body: #b6cbce;
     --color-heading: #eef3db;
-    --color-base: #033f47;
-    --color-base2: #022a30;
-    --color-brand: #e0f780;
-    --color-brand2: #deff58;
+    --color-base: #069A8E;
+    --color-base2: #135c5c;
+    --color-brand: #b0e3db;
+    --color-brand2: #61c1b1;
     --sidbar-width: 240px;
     --font-base: "Bai Jamjuree";
 }
@@ -140,7 +140,7 @@ img {
 .btn-brand:hover,
 .btn-brand:focus {
     background-color: var(--color-brand2);
-    color: var(--color-base);
+    color: var(--color-body);
     border-color: var(--color-brand2);
 }
 
@@ -202,6 +202,7 @@ img {
 
 /* FOOTER */
 /* SOCIAL ICONS */
+
 
 .social-icons a {
     width: 40px;
